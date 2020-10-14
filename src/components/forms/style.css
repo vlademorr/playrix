@@ -1,0 +1,12 @@
+.event-adding{
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: 30px auto;
+}
+
+.inputs-event-adding{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}

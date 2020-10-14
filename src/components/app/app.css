@@ -1,0 +1,40 @@
+.header{
+    height: 80px;
+    margin: 0 auto;
+    border-bottom: 1px solid #c4c4c4;
+}
+.header-nav{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+}
+a{
+    color: black;
+}
+/*EVENT-LIST*/
+.event-list{
+    margin: 0 auto;
+    width: 500px;
+}
+
+.event-list-item{
+    display: flex;
+    justify-content: space-between;
+}
+
+.greenStyle{
+    background: linear-gradient(90deg , greenyellow 60%, #ddffa9 90%, greenyellow 100%);
+}
+
+.yellowStyle{
+    background: linear-gradient(90deg , yellow 60%, #ffffd5 90%, yellow 100%);
+}
+
+.redStyle{
+    background: linear-gradient(90deg , #ff6567 80%, #ffc4c5 90%, #ff6567 100%);
+}
+
+.blueStyle{
+    background: linear-gradient(90deg , deepskyblue 60%, #b5edff 90%, deepskyblue 100%);
+}
+
